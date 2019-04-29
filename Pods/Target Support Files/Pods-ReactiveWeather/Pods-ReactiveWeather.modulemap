@@ -1,0 +1,6 @@
+framework module Pods_ReactiveWeather {
+  umbrella header "Pods-ReactiveWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
